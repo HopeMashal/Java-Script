@@ -21,10 +21,32 @@ typeof firstName; //String
 typeof num; //Number
 
 //! String Indices 
+let myMsg ="Hello    "; 
+myMsg.length; // 9
+myMsg[0]; // H
+myMsg[100]; // undefined
 
 //! String Methods 
+let Letter = "  You are very cool!  ";
+Letter.toUpperCase();
+Letter.toLowerCase();
+Letter.trim(); //You are very cool! (without space)
+Letter.trim().toUpperCase();
+
+let tvShow = 'catdog';
+tvShow.indexOf('cat'); //0
+tvShow.indexOf('dog'); //3
+tvShow.indexOf('z'); //-1 (NOT Found)
+
+let str='HelloThereMyNameHope';
+str.slice(0,5); //Hello
+str.slice(5); //ThereMyNameHope
+
+let annoyingLaugh = 'teehee so funny! teehee!';
+annoyingLaugh.replace('teehee','hahaha'); //hahaha so funny! hahaha!
 
 //! String Escape Characters 
+
 
 //! String Template Literals 
 
