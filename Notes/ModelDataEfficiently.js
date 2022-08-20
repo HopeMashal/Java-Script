@@ -46,14 +46,42 @@ let annoyingLaugh = 'teehee so funny! teehee!';
 annoyingLaugh.replace('teehee','hahaha'); //hahaha so funny! hahaha!
 
 //! String Escape Characters 
-
+/* 
+    \n - newline
+    \' - single quote
+    \" - double quote
+    \\ - backslash 
+    \t - new tab
+*/
 
 //! String Template Literals 
+let x = `I counted ${3+4} sheep`; //I counted 7 sheep
+let y = "Hope";
+let z = `My name is ${y}`; //My name is  Hope 
+let z2 = "My name is "+ y ; //My name is  Hope 
 
 //! Null & Undefined 
+//? Null: Intentional absence of any value, must be assigned
+//? Undefined: VAriables that do not have an assigned value are undefined
 
 //! Math Object & Random Numbers 
+Math.PI; //3.14159265358..
+Math.round(4.9); //5
+Math.round(4.4); //4
+Math.abs(-456); //456
+Math.pow(2,5); //32
+Math.floor(3.999); //3
+Math.random(); // number between 0 to 1
 
 //! typeof Operator
+typeof 'hello'; // string
+typeof 2; //number
+typeof true; // boolean
 
 //! parseInt & parseFloat 
+parseInt('24'); //24
+parseInt('24.53'); // 24
+parseInt('26Hello'); //26
+parseFloat('24.321');//24.321
+parseFloat('3'); //3
+parseFloat('I ate 3 shramp'); //NaN
