@@ -14,6 +14,16 @@ JavaScript Basic Notes and Some Apps
   * Math Object & Random Numbers 
   * typeof Operator
   * parseInt & parseFloat 
+* Controlling Program Logic and Flow 
+  * Comparison Operators [GO]()
+  * If / Else If/ Else Statement [GO]()
+  * Nesting Conditionals [GO]()
+  * Truthy & Falsy Values [GO]()
+  * Logical AND / OR [GO]()
+  * NOT Operator [GO]()
+  * Operator Precedence [GO]()
+  * The switch statement [GO]()
+  * Ternary Operator [GO]()
 
 # Apps
 
