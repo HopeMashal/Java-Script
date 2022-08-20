@@ -2,7 +2,7 @@
 JavaScript Basic Notes and Some Apps
 
 # Notes
-* JS Values & Variables [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Values%2B%26%2BVariables.pdf)
+* JS Values & Variables [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Values_Variables.pdf)
 * Model Data Efficiently [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/ModelDataEfficiently.js)
   * Booleans 
   * Strings 
