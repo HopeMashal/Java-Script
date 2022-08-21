@@ -1,4 +1,4 @@
-# Java-Script
+# JavaScript
 JavaScript Basic Notes and Some Apps
 
 # Notes
