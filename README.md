@@ -15,15 +15,16 @@ JavaScript Basic Notes and Some Apps
   * typeof Operator
   * parseInt & parseFloat 
 * Controlling Program Logic and Flow 
-  * Comparison Operators [GO]()
-  * If / Else If/ Else Statement [GO]()
-  * Nesting Conditionals [GO]()
-  * Truthy & Falsy Values [GO]()
-  * Logical AND / OR [GO]()
-  * NOT Operator [GO]()
-  * Operator Precedence [GO]()
-  * The switch statement [GO]()
-  * Ternary Operator [GO]()
+  * Comparison Operators [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/Conditionals_Logic.pdf)
+  * Running Code From a Script [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/1-Running_Script/index.html)
+  * If / Else If/ Else Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/2-If_Else_Statement.js)
+  * Nesting Conditionals [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/3-Nesting.js)
+  * Truthy & Falsy Values [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/4-Truthy_Falsy.js)
+  * Logical AND / OR [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/5-And_Or.js)
+  * NOT Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/6-Not.js)
+  * Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/7-Opertor_Precedence.js)
+  * The switch statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/8-Switch.js)
+  * Ternary Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/9-Ternary.js)
 
 # Apps
 
