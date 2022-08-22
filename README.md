@@ -40,12 +40,12 @@ JavaScript Basic Notes and Some Apps
   * Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Capture_Collections_of_Data_with_Arrays/12-Reference.js)
   * Nested Arrays [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Capture_Collections_of_Data_with_Arrays/13-Nested_Array.js)
 * Objects - The core of javascript
-  * Objects [GO]()
-  * Accessing Object Properties [GO]()
-  * Adding and Update Properties [GO]()
-  * Nested Arrays and Objects [GO]()
-  * Objects and Reference Types [GO]()
-  * Array/Object Equality [GO]()
+  * Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/01-Objects.js)
+  * Accessing Object Properties [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/02-Object_prop.js)
+  * Adding and Update Properties [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/03-Add_Update.js)
+  * Nested Arrays and Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/04-Nested.js)
+  * Objects and Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/05-Reference.js)
+  * Array/Object Equality [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/06-Array_Object_Equality.js)
 
 # Apps
 
