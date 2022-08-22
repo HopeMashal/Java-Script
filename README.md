@@ -39,6 +39,13 @@ JavaScript Basic Notes and Some Apps
   * Sorting [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Capture_Collections_of_Data_with_Arrays/11-Sort.js)
   * Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Capture_Collections_of_Data_with_Arrays/12-Reference.js)
   * Nested Arrays [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Capture_Collections_of_Data_with_Arrays/13-Nested_Array.js)
+* Objects - The core of javascript
+  * Objects [GO]()
+  * Accessing Object Properties [GO]()
+  * Adding and Update Properties [GO]()
+  * Nested Arrays and Objects [GO]()
+  * Objects and Reference Types [GO]()
+  * Array/Object Equality [GO]()
 
 # Apps
 
