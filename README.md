@@ -46,6 +46,14 @@ JavaScript Basic Notes and Some Apps
   * Nested Arrays and Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/04-Nested.js)
   * Objects and Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/05-Reference.js)
   * Array/Object Equality [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects-The_core_of_javascript/06-Array_Object_Equality.js)
+* The World of Loops
+  * Loops [GO]()
+  * For Loops  [GO]()
+  * While Loops  [GO]()
+  * Break Keyword  [GO]()
+  * For .. OF Loops  [GO]()
+  * For .. In Loops  [GO]()
+
 
 # Apps
 
