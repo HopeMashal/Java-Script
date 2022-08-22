@@ -22,7 +22,7 @@ JavaScript Basic Notes and Some Apps
   * Truthy & Falsy Values [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/4-Truthy_Falsy.js)
   * Logical AND / OR [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/5-And_Or.js)
   * NOT Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/6-Not.js)
-  * Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/7-Opertor_Precedence.js)
+  * Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/7-Operator_Precedence.js)
   * The switch statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/8-Switch.js)
   * Ternary Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/9-Ternary.js)
 
