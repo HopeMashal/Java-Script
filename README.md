@@ -25,6 +25,20 @@ JavaScript Basic Notes and Some Apps
   * Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/08-Operator_Precedence.js)
   * The switch statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/09-Switch.js)
   * Ternary Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/10-Ternary.js)
+* Capture Collections of Data with Arrays
+  * Arrays & Objects [GO]()
+  * Array Indices [GO]()
+  * Modifying Arrays [GO]()
+  * Push and Pop [GO]()
+  * Shift and Unshift [GO]()
+  * Concat [GO]()
+  * Includes and IndexOf [GO]()
+  * Reverse and Join [GO]()
+  * Slice [GO]()
+  * Splice [GO]()
+  * Sorting [GO]()
+  * Reference Types [GO]()
+  * Nested Arrays [GO]()
 
 # Apps
 
