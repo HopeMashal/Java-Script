@@ -5,7 +5,7 @@ JavaScript Basic Notes and Some Apps
 * JS Values & Variables [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/01-Values_Variables.pdf)
 * Model Data Efficiently [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/02-ModelDataEfficiently.js)
   * Booleans 
-  * Strings/String Indices/String Methods/String Escape Characters/String Template Literals 
+  * Strings/ String Indices/ String Methods/ String Escape Characters/ String Template Literals 
   * Null & Undefined 
   * Math Object & Random Numbers 
   * typeof Operator
@@ -13,16 +13,16 @@ JavaScript Basic Notes and Some Apps
 * Controlling Program Logic and Flow 
   * Comparison Operators [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/01-Conditionals_Logic.pdf)
   * Running Code From a Script [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/02-Running_Script/index.html)
-  * If / Else If/ Else Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/03-If_Else_Statement.js)
+  * If/ Else If/ Else Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/03-If_Else_Statement.js)
   * Nesting Conditionals [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/04-Nesting.js)
-  * Truthy & Falsy Values/Logical AND & OR/NOT Operator/Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/05-Logic_and_Operator.js)
+  * Truthy & Falsy Values/ Logical AND & OR/ NOT Operator/ Operator Precedence [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/05-Logic_and_Operator.js)
   * The switch statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/06-Switch.js)
   * Ternary Operator [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Controlling_Program_Logic_and_Flow/07-Ternary.js)
 * Arrays
   * Arrays & Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/01-Arrays_Objects.pdf)
   * Array Indices [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/02-Array_Indices.js)
   * Modifying Arrays [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/03-Modifying_Arrays.js)
-  * Array Methods: Push and Pop/Shift and Unshift/Concat/Includes and IndexOf/Reverse and Join/Slice/Splice/Sorting [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/04-Array_Methods.js)
+  * Array Methods: Push and Pop/ Shift and Unshift/ Concat/ Includes and IndexOf/ Reverse and Join/ Slice/ Splice/ Sorting [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/04-Array_Methods.js)
   * Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/05-Reference.js)
   * Nested Arrays [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Arrays/06-Nested_Array.js)
 * Objects
@@ -45,7 +45,7 @@ JavaScript Basic Notes and Some Apps
   * The return Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/04-Return.js)
 * Advanced Functions
   * Advanced Functions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/01-Advanced_Functions.pdf)
-  * Function Scope / Block Scope/ Lexical Scope [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/02-Scope.js)
+  * Function Scope/ Block Scope/ Lexical Scope [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/02-Scope.js)
   * Functions Expressions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/03-Expression.js)
   * Higher Order Functions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/04-Fun_Values.js)
   * Functions as Arguments [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/05-Fun_Args.js)
