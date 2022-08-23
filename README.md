@@ -43,6 +43,15 @@ JavaScript Basic Notes and Some Apps
   * Dice Roll function [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/02-Dice_Roll.js)
   * Arguments & Functions with multiple Arguments [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/03-Arguments.js)
   * The return Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/04-Return.js)
+* Advanced Functions
+  * Advanced Functions [GO]()
+  * Function Scope / Block Scope/ Lexical Scope [GO]()
+  * Functions Expressions [GO]()
+  * Higher Order Functions [GO]()
+  * Functions as Arguments [GO]()
+  * Functions as return values [GO]()
+  * CallBacks [GO]()
+  * Hoisting [GO]()
 
 
 # Apps
