@@ -84,10 +84,10 @@ JavaScript Basic Notes and Some Apps
   * Annoyomatic Demo [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/07-Annoyomatic.js)
   * Deck Of Cards & Creating a Deck Factory [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/08-Deck_Card.js)
 * JS in the browser- DOM Manipulation
-  * Introduction to the DOM [GO]()
-  * Important Note: HTML & CSS [GO]()
-  * getElementById/ getElementByTagName/ getElementByClassName [GO]()
-  * querySelector & querySelectorAll [GO]()
+  * Introduction to the DOM [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/01-DOM.pdf)
+  * Important Note: HTML & CSS [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/02-Important_Note_HTML_CSS/index.html)
+  * getElementById/ getElementByTagName/ getElementByClassName [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/03-getElement/app.js)
+  * querySelector & querySelectorAll [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/04-querySelector/app.js)
 
 
 # Apps
