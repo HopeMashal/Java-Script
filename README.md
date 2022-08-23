@@ -96,7 +96,19 @@ JavaScript Basic Notes and Some Apps
   * Append, Prepend, & insertBefore [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/10-prepend_insertBefore/app.js)
   * removeChild & remove [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/11-remove_removeChild/app.js)
   * NBA Score Chart & NBA Score Chart Refactor [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/12-NBA/app.js)
-* 
+* Communicating with Events 
+  * 2 ways NOT to add Events [GO]()
+  * addEventListener [GO]()
+  * The impossible button demo [GO]()
+  * Events on Multiple Elements [GO]()
+  * The Event Object [GO]()
+  * Key Events: keyPress, keyUp, & keyDown [GO]()
+  * Coin Game Demo [GO]()
+  * Form Events & PreventDefault [GO]()
+  * Input & Change Events [GO]()
+* Asynchronous Code, Callbacks & Promises
+* Making HTTP Requests
+* Async & Await: JS Magic
 
 
 # Apps
