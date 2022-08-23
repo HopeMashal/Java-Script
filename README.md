@@ -97,15 +97,15 @@ JavaScript Basic Notes and Some Apps
   * removeChild & remove [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/11-remove_removeChild/app.js)
   * NBA Score Chart & NBA Score Chart Refactor [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/12-NBA/app.js)
 * Communicating with Events 
-  * 2 ways NOT to add Events [GO]()
-  * addEventListener [GO]()
-  * The impossible button demo [GO]()
-  * Events on Multiple Elements [GO]()
-  * The Event Object [GO]()
-  * Key Events: keyPress, keyUp, & keyDown [GO]()
-  * Coin Game Demo [GO]()
-  * Form Events & PreventDefault [GO]()
-  * Input & Change Events [GO]()
+  * 2 ways NOT to add Events [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Event_F/01-Two_Ways_NOT_To_Add_Events/app.js)
+  * addEventListener [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Event_F/02-addEventListener/app.js)
+  * The impossible button demo [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/03-Annoying_Button_Demo/app.js)
+  * Events on Multiple Elements [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/04-Multiple_Events/app.js)
+  * The Event Object [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/05-Event_Object/app.js)
+  * Key Events: keyPress, keyUp, & keyDown [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/06-Key_Events/app.js)
+  * Coin Game Demo [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/07-Coin_Game/app.js)
+  * Form Events & PreventDefault [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/08-Form_Events/app.js)
+  * Input & Change Events [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/09-Input_Change_Events/app.js)
 * Asynchronous Code, Callbacks & Promises
 * Making HTTP Requests
 * Async & Await: JS Magic
