@@ -44,14 +44,14 @@ JavaScript Basic Notes and Some Apps
   * Arguments & Functions with multiple Arguments [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/03-Arguments.js)
   * The return Statement [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Functions/04-Return.js)
 * Advanced Functions
-  * Advanced Functions [GO]()
-  * Function Scope / Block Scope/ Lexical Scope [GO]()
-  * Functions Expressions [GO]()
-  * Higher Order Functions [GO]()
-  * Functions as Arguments [GO]()
-  * Functions as return values [GO]()
-  * CallBacks [GO]()
-  * Hoisting [GO]()
+  * Advanced Functions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/01-Advanced_Functions.pdf)
+  * Function Scope / Block Scope/ Lexical Scope [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/02-Scope.js)
+  * Functions Expressions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/03-Expression.js)
+  * Higher Order Functions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/04-Fun_Values.js)
+  * Functions as Arguments [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/05-Fun_Args.js)
+  * Functions as return values [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/06-Fun-Return.js)
+  * CallBacks [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/07-Callback.js)
+  * Hoisting [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/08-Hoisting.js)
 
 
 # Apps
