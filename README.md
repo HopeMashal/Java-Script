@@ -63,17 +63,17 @@ JavaScript Basic Notes and Some Apps
   * Revisiting Sort [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/08-Sorting.js)
   * Reduce [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/09-Reduce.js)
 * A few miscellaneous JS Features
-  * New JS Features [GO]()
-  * Default Parameters [GO]()
-  * Spread for Function Calls [GO]()
-  * Spread in Array Literals [GO]()
-  * Spread in Object Literals [GO]()
-  * The Arguments Object [GO]()
-  * Rest Parameters [GO]()
-  * Destructuring Arrays [GO]()
-  * Destructuring Objects [GO]()
-  * Nested Destructuring [GO]()
-  * Destructuring Parameters [GO]()
+  * New JS Features [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/01-JS_Features.pdf)
+  * Default Parameters [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/02-Default_Param.js)
+  * Spread for Function Calls [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/03-Spread_Fun.js)
+  * Spread in Array Literals [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/04-Spread_Array.js)
+  * Spread in Object Literals [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/05-Spread_Obj.js)
+  * The Arguments Object [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/06-Arg_Obj.js)
+  * Rest Parameters [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/07-Rest_Param.js)
+  * Destructuring Arrays [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/08-Dest_Array.js)
+  * Destructuring Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/09-Dest_Obj.js)
+  * Nested Destructuring [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/10-Nested_Dest.js)
+  * Destructuring Parameters [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/11-Dest_Param.js)
 
 
 # Apps
