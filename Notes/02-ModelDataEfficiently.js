@@ -45,6 +45,15 @@ str.slice(5); //ThereMyNameHope
 let annoyingLaugh = 'teehee so funny! teehee!';
 annoyingLaugh.replace('teehee','hahaha'); //hahaha so funny! hahaha!
 
+let text = "How are you doing today?";
+const myArr1 = text.split("").join(',');// H,o,w, ,a,r,e, ,y,o,u, ,d,o,i,n,g, ,t,o,d,a,y,?
+console.log(myArr1);
+const myArr2 = text.split(" ", 3).join(','); // How,are,you
+console.log(myArr2);
+const myArr3 = text.split("o").join(','); // H,w are y,u d,ing t,day?
+console.log(myArr3);
+
+
 //! String Escape Characters 
 /* 
     \n - newline

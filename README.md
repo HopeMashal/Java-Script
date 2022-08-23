@@ -62,7 +62,18 @@ JavaScript Basic Notes and Some Apps
   * Some & Every [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/07-Some_Every.js)
   * Revisiting Sort [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/08-Sorting.js)
   * Reduce [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/09-Reduce.js)
-
+* A few miscellaneous JS Features
+  * New JS Features [GO]()
+  * Default Parameters [GO]()
+  * Spread for Function Calls [GO]()
+  * Spread in Array Literals [GO]()
+  * Spread in Object Literals [GO]()
+  * The Arguments Object [GO]()
+  * Rest Parameters [GO]()
+  * Destructuring Arrays [GO]()
+  * Destructuring Objects [GO]()
+  * Nested Destructuring [GO]()
+  * Destructuring Parameters [GO]()
 
 
 # Apps
