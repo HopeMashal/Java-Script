@@ -39,8 +39,11 @@ JavaScript Basic Notes and Some Apps
   * For .. OF Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/05-For_OF_Loop.js)
   * For .. In Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/06-For_In_Loop.js)
 * Functions
-
+  * Functions [GO]()
+  * Dice Roll function [GO]()
+  * Arguments & Functions with multiple Arguments [GO]()
+  * The return Statement
 
 
 # Apps
-
+* Some Functions Challenges [GO]()
