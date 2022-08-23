@@ -88,6 +88,14 @@ JavaScript Basic Notes and Some Apps
   * Important Note: HTML & CSS [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/02-Important_Note_HTML_CSS/index.html)
   * getElementById/ getElementByTagName/ getElementByClassName [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/03-getElement/app.js)
   * querySelector & querySelectorAll [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/04-querySelector/app.js)
+  * Changing Multiple Elements [GO]()
+  * Altering Styles [GO]()
+  * getComputedStyle [GO]()
+  * Manipulating Classes [GO]()
+  * Creating Elements [GO]()
+  * Append, Prepend, & insertBefore [GO]()
+  * removeChild & remove [GO]()
+  * NBA Score Chart & NBA Score Chart Refactor [GO]()
 
 
 # Apps
