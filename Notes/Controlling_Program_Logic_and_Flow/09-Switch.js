@@ -1,3 +1,4 @@
+//! The switch statement
 let day = 7;
 
 // USING TRADITIONAL CONDITIONAL....

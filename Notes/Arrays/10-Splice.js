@@ -1,3 +1,4 @@
+//! Splice
 let animals = [ 'shark', 'salmon', 'whale', 'bear', 'lizard', 'tortoise' ];
 
 //splice(startIdx, deleteCount, itemsToInsert);

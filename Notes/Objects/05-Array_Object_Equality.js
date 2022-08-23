@@ -1,3 +1,4 @@
+//! Array/Object Equality
 let nums = [ 1, 2, 3 ];
 let mystery = [ 1, 2, 3 ];
 let moreNums = nums;

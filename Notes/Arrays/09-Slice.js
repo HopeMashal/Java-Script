@@ -1,3 +1,4 @@
+//! Slice
 let animals = [ 'shark', 'salmon', 'whale', 'bear', 'lizard', 'tortoise' ];
 
 let swimmers = animals.slice(0, 3);

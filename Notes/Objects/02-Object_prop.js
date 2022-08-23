@@ -1,3 +1,4 @@
+//! Accessing Object Properties
 const palette = {
 	red    : '#eb4d4b',
 	yellow : '#f9ca24',
@@ -15,6 +16,7 @@ palette['yellow']; //'#f9ca24'
 let mysteryColor = 'blue';
 palette[mysteryColor]; //'#30336b'
 
+//! Adding and Update Properties
 const userReviews = {};
 
 //Adding a new property:

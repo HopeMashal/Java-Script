@@ -42,12 +42,12 @@ JavaScript Basic Notes and Some Apps
   * Objects and Reference Types [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects/04-Reference.js)
   * Array/Object Equality [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects/05-Array_Object_Equality.js)
 * Loops
-  * Loops [GO]()
-  * For Loops  [GO]()
-  * While Loops  [GO]()
-  * Break Keyword  [GO]()
-  * For .. OF Loops  [GO]()
-  * For .. In Loops  [GO]()
+  * Loops [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/01-Loops.pdf)
+  * For Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/02-For_Loop.js)
+  * While Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/03-While_Loop.js)
+  * Break Keyword  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/04-Break_Keyword.js)
+  * For .. OF Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/05-For_OF_Loop.js)
+  * For .. In Loops  [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Loops/06-For_In_Loop.js)
 
 
 # Apps

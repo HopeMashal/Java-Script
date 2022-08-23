@@ -1,3 +1,4 @@
+//! Ternary Operator
 let num = 7;
 
 // Without Ternary Operator...
