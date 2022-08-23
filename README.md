@@ -75,14 +75,14 @@ JavaScript Basic Notes and Some Apps
   * Nested Destructuring [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/10-Nested_Dest.js)
   * Destructuring Parameters [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/11-Dest_Param.js)
 * Objects Methods 
-  * Objects Methods and 'This' Keyword [GO]()
-  * Shorthand Object Properties [GO]()
-  * Computed Properties [GO]()
-  * Adding Methods to Objects [GO]()
-  * Method Shorthand Syntax [GO]()
-  * 'This' Keyword/ This in Methods/ This invocation Context[GO]()
-  * Annoyomatic Demo [GO]()
-  * Deck Of Cards & Creating a Deck Factory [GO]()
+  * Objects Methods and 'This' Keyword [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/01-Objects_Methods.pdf)
+  * Shorthand Object Properties [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/02-Shorthand_Obj.js)
+  * Computed Properties [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/03-Computed_Prop.js)
+  * Adding Methods to Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/04-Adding_Methods.js)
+  * Method Shorthand Syntax [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/05-Method_Shorthand.js)
+  * 'This' Keyword/ This in Methods/ This invocation Context[GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/06-this.js)
+  * Annoyomatic Demo [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/07-Annoyomatic.js)
+  * Deck Of Cards & Creating a Deck Factory [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/08-Deck_Card.js)
 
 
 # Apps
