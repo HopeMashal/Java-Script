@@ -83,6 +83,11 @@ JavaScript Basic Notes and Some Apps
   * 'This' Keyword/ This in Methods/ This invocation Context [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/06-this.js)
   * Annoyomatic Demo [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/07-Annoyomatic.js)
   * Deck Of Cards & Creating a Deck Factory [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/08-Deck_Card.js)
+* JS in the browser- DOM Manipulation
+  * Introduction to the DOM [GO]()
+  * Important Note: HTML & CSS [GO]()
+  * getElementById/ getElementByTagName/ getElementByClassName [GO]()
+  * querySelector & querySelectorAll [GO]()
 
 
 # Apps
