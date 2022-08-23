@@ -74,6 +74,15 @@ JavaScript Basic Notes and Some Apps
   * Destructuring Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/09-Dest_Obj.js)
   * Nested Destructuring [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/10-Nested_Dest.js)
   * Destructuring Parameters [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/JS_Features/11-Dest_Param.js)
+* Objects Methods 
+  * Objects Methods and 'This' Keyword [GO]()
+  * Shorthand Object Properties [GO]()
+  * Computed Properties [GO]()
+  * Adding Methods to Objects [GO]()
+  * Method Shorthand Syntax [GO]()
+  * 'This' Keyword/ This in Methods/ This invocation Context[GO]()
+  * Annoyomatic Demo [GO]()
+  * Deck Of Cards & Creating a Deck Factory [GO]()
 
 
 # Apps
