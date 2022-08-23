@@ -53,15 +53,15 @@ JavaScript Basic Notes and Some Apps
   * CallBacks [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/07-Callback.js)
   * Hoisting [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Advanced_Functions/08-Hoisting.js)
 * Apply Functions to Collections of Data
-  * Array Callback Methods [GO]()
-  * forEach [GO]()
-  * Map [GO]()
-  * Arrow Functions [GO]()
-  * Array Find [GO]()
-  * Filter [GO]()
-  * Some & Every [GO]()
-  * Revisiting Sort [GO]()
-  * Reduce [GO]()
+  * Array Callback Methods [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/01-Array_Callback.pdf)
+  * forEach [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/02-forEach.js)
+  * Map [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/03-Map.js)
+  * Arrow Functions [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/04-Arrow_Fun.js)
+  * Array Find [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/05-Find.js)
+  * Filter [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/06-Filter.js)
+  * Some & Every [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/07-Some_Every.js)
+  * Revisiting Sort [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/08-Sorting.js)
+  * Reduce [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Apply_Functions/09-Reduce.js)
 
 
 
