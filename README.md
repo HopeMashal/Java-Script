@@ -80,7 +80,7 @@ JavaScript Basic Notes and Some Apps
   * Computed Properties [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/03-Computed_Prop.js)
   * Adding Methods to Objects [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/04-Adding_Methods.js)
   * Method Shorthand Syntax [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/05-Method_Shorthand.js)
-  * 'This' Keyword/ This in Methods/ This invocation Context[GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/06-this.js)
+  * 'This' Keyword/ This in Methods/ This invocation Context [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/06-this.js)
   * Annoyomatic Demo [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/07-Annoyomatic.js)
   * Deck Of Cards & Creating a Deck Factory [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/Objects_Methods/08-Deck_Card.js)
 
