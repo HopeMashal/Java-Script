@@ -88,14 +88,15 @@ JavaScript Basic Notes and Some Apps
   * Important Note: HTML & CSS [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/02-Important_Note_HTML_CSS/index.html)
   * getElementById/ getElementByTagName/ getElementByClassName [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/03-getElement/app.js)
   * querySelector & querySelectorAll [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/04-querySelector/app.js)
-  * Changing Multiple Elements [GO]()
-  * Altering Styles [GO]()
-  * getComputedStyle [GO]()
-  * Manipulating Classes [GO]()
-  * Creating Elements [GO]()
-  * Append, Prepend, & insertBefore [GO]()
-  * removeChild & remove [GO]()
-  * NBA Score Chart & NBA Score Chart Refactor [GO]()
+  * Changing Multiple Elements [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/05-Changing_Multiple_Elements/app.js)
+  * Altering Styles [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/06-Changing_Styles/app.js)
+  * getComputedStyle [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/07-getComputedStyle/app.js)
+  * Manipulating Classes [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/08-ClassList/app.js)
+  * Creating Elements [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/09-Creating_Appending_Elements/app.js)
+  * Append, Prepend, & insertBefore [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/10-prepend_insertBefore/app.js)
+  * removeChild & remove [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/11-remove_removeChild/app.js)
+  * NBA Score Chart & NBA Score Chart Refactor [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/DOM/12-NBA/app.js)
+* 
 
 
 # Apps
