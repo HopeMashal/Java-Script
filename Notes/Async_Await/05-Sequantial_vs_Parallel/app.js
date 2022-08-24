@@ -1,3 +1,5 @@
+//! Parallel VS Sequential Requests
+
 // SEQUENTIAL REQUESTS!
 async function get3PokemonSequential() {
 	const poke1 = await axios.get('https://pokeapi.co/api/v2/pokemon/1');

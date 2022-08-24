@@ -1,3 +1,5 @@
+//! Refactoring with Promises.all
+
 // PARALLEL REQUESTS!
 async function get3Pokemon() {
 	const prom1 = axios.get('https://pokeapi.co/api/v2/pokemon/1');

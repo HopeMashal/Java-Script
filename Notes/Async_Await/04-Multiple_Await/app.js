@@ -1,3 +1,5 @@
+//! Multiple Awaits
+
 const moveX = (element, amount, delay) => {
 	return new Promise((resolve, reject) => {
 		setTimeout(() => {
