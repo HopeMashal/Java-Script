@@ -117,7 +117,20 @@ JavaScript Basic Notes and Some Apps
   * The Delights of Promise Chaining [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Asynchronous/08-Promise_Chaining/app.js)
   * Refactoring with Promises [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Asynchronous/09-Refactoring_With_Promises/app.js)
 * Making HTTP Requests
+  * XML Http Requests - Basics [GO]()
+  * XML Http Requests - Chaining Requests [GO]()
+  * Fetch [GO]()
+  * Chaining Fetch Requests [GO]()
+  * Refactoring Fetch Chains [GO]()
+  * Axios [GO]()
+  * Sequential Axios Requests [GO]()
 * Async & Await: JS Magic
+  * 'Async' Keyword [GO]()
+  * 'Await' Keyword [GO]()
+  * Error Handling in Async Functions [GO]()
+  * Multiple Awaits [GO]()
+  * Parallel VS Sequential Requests [GO]()
+  * Refactoring with Promises.all [GO]()
 
 
 # Apps
