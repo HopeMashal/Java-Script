@@ -1,3 +1,5 @@
+//! Axios
+
 axios
 	.get('https://swapi.co/api/planets/')
 	.then((res) => {

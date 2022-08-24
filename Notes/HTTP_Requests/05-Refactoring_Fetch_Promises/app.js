@@ -1,3 +1,5 @@
+//! Refactoring Fetch Chains
+
 const checkStatusAndParse = (response) => {
 	if (!response.ok) throw new Error(`Status Code Error: ${response.status}`);
 

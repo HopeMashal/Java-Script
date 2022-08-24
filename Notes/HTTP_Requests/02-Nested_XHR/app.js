@@ -1,3 +1,5 @@
+//! XML Http Requests - Chaining Requests
+
 const firstReq = new XMLHttpRequest();
 firstReq.addEventListener('load', function() {
 	console.log('FIRST REQUEST WORKED!!!');
