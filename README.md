@@ -125,12 +125,12 @@ JavaScript Basic Notes and Some Apps
   * Axios [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/06-Axios_Intro/app.js)
   * Sequential Axios Requests [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/07-Chaining_Requests_Axios/app.js)
 * Async & Await: JS Magic
-  * 'Async' Keyword [GO](/app.js)
-  * 'Await' Keyword [GO](/app.js)
-  * Error Handling in Async Functions [GO](/app.js)
-  * Multiple Awaits [GO](/app.js)
-  * Parallel VS Sequential Requests [GO](/app.js)
-  * Refactoring with Promises.all [GO](/app.js)
+  * 'Async' Keyword [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/01-Async_Keyword/app.js)
+  * 'Await' Keyword [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/02-Await_Keyword/app.js)
+  * Error Handling in Async Functions [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/03-Error_Handling_Async/app.js)
+  * Multiple Awaits [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/04-Multiple_Await/app.js)
+  * Parallel VS Sequential Requests [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/05-Sequantial_vs_Parallel/app.js)
+  * Refactoring with Promises.all [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Async_Await/06-Promise_All/app.js)
 
 
 # Apps
