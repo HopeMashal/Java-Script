@@ -117,20 +117,20 @@ JavaScript Basic Notes and Some Apps
   * The Delights of Promise Chaining [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Asynchronous/08-Promise_Chaining/app.js)
   * Refactoring with Promises [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Asynchronous/09-Refactoring_With_Promises/app.js)
 * Making HTTP Requests
-  * XML Http Requests - Basics [GO]()
-  * XML Http Requests - Chaining Requests [GO]()
-  * Fetch [GO]()
-  * Chaining Fetch Requests [GO]()
-  * Refactoring Fetch Chains [GO]()
-  * Axios [GO]()
-  * Sequential Axios Requests [GO]()
+  * XML Http Requests - Basics [GO](https://github.com/HopeMashal/Java-Script/blob/master/Notes/HTTP_Requests/01-XHR_Basics/app.js)
+  * XML Http Requests - Chaining Requests [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/02-Nested_XHR/app.js)
+  * Fetch [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/03-Fetch_Intro/app.js)
+  * Chaining Fetch Requests [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/04-Chaining_Fetch/app.js)
+  * Refactoring Fetch Chains [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/05-Refactoring_Fetch_Promises/app.js)
+  * Axios [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/06-Axios_Intro/app.js)
+  * Sequential Axios Requests [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/HTTP_Requests/07-Chaining_Requests_Axios/app.js)
 * Async & Await: JS Magic
-  * 'Async' Keyword [GO]()
-  * 'Await' Keyword [GO]()
-  * Error Handling in Async Functions [GO]()
-  * Multiple Awaits [GO]()
-  * Parallel VS Sequential Requests [GO]()
-  * Refactoring with Promises.all [GO]()
+  * 'Async' Keyword [GO](/app.js)
+  * 'Await' Keyword [GO](/app.js)
+  * Error Handling in Async Functions [GO](/app.js)
+  * Multiple Awaits [GO](/app.js)
+  * Parallel VS Sequential Requests [GO](/app.js)
+  * Refactoring with Promises.all [GO](/app.js)
 
 
 # Apps
