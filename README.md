@@ -107,6 +107,15 @@ JavaScript Basic Notes and Some Apps
   * Form Events & PreventDefault [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/08-Form_Events/app.js)
   * Input & Change Events [GO](https://github.com/HopeMashal/Java-Script/tree/master/Notes/Event_F/09-Input_Change_Events/app.js)
 * Asynchronous Code, Callbacks & Promises
+  * Asynchronous Code, Callbacks & Promises [GO]()
+  * Call Stack Debugging [GO]()
+  * JS is Single Threaded [GO]()
+  * Callback Hell [GO]()
+  * Promises [GO]()
+  * Returning Promises from Functions [GO]()
+  * Resolving/Rejecting with value [GO]()
+  * The Delights of Promise Chaining [GO]()
+  * Refactoring with Promises [GO]()
 * Making HTTP Requests
 * Async & Await: JS Magic
 
