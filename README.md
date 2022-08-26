@@ -136,5 +136,6 @@ JavaScript Basic Notes and Some Apps
 # Apps
 * Many Exercises [GO](https://github.com/HopeMashal/JAVASCRIPT-Ex.s/tree/master/Ex.s) , [GO](https://github.com/HopeMashal/JavaScript-week1) , & [GO](https://github.com/HopeMashal/JavaScript-week2)
 * Some Functions Challenges [GO](https://github.com/HopeMashal/Java-Script/blob/master/Apps/01-Some_Functions.js)
+* Amazon Mockup [GO](https://github.com/HopeMashal/Amazon)
 * 2D Minecraft [GO](https://github.com/HopeMashal/2D-Minecraft)
 * Covid-19 [GO](https://github.com/HopeMashal/Covid-19)
